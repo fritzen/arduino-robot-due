@@ -23,4 +23,8 @@ https://www.youtube.com/watch?v=3uCTnnqyEo8
 
 ## Project Wires
 
-![AWESOME](circuit.png)
+![AWESOME](assets/circuit.png)
+
+## Prototype
+
+![AWESOME](assets/prototype.jpg)
